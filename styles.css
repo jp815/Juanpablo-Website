@@ -1,15 +1,27 @@
 body {background-color:	#aaccff;}
-h1 {color:	#3333ff;
-								font-style:	italic;	
-								font-size:48;	
-								font-family:serif;				
-								margin:20px;	
-								padding:20px;}
-h2 {color:	#aa33ff; font-style:	normal;	
-								font-size:30;	font-family:serif;	
-								margin:20px;	padding:20px;}
-p {color:	black;	
-						font-family:monospace;	
+h1 {color: #3333ff;
+   font-style:italic;	
+   font-size:36;	
+   font-family:serif;				
+   margin:20px;	
+   padding:20px;}
+
+h2 {color: #aa33ff; 
+    font-style:	normal;	
+    font-size:24;
+    font-family:serif;	
+    margin:20px;
+    padding:20px;}
+
+h3 {color: #aa33ff; 
+    font-style:	normal;	
+    font-size:18;
+    font-family:serif;	
+    margin:20px;
+    padding:20px;}
+
+p {color: black;	
+   font-family: ;	
 						border:	1px	solid	white;	
 						width:400px;	
 						margin:20px;		
